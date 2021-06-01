@@ -9,6 +9,5 @@ FutureX client skidded by SirMeme and his autist friends. Essentially just Metho
 
 method client: https://github.com/danmaster2/MethodClient
 
-meme credit: Tedious
 
 clown down!
