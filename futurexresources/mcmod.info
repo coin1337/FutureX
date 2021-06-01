@@ -1,0 +1,16 @@
+[
+{
+  "modid": "futurex",
+  "name": "FutureX",
+  "description": "FutureX Utility Mod cracked by christallinqq",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "www.futurexclient.tk",
+  "updateUrl": "www.futurexclient.tk/update",
+  "authorList": ["FutureX"],
+  "credits": "FutureX",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
