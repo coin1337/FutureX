@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: FutureX
+Implementation-Version: 0.0.1
+FMLCorePluginContainsFMLMod: true
+Specification-Title: Client
+Implementation-Timestamp: 2021-05-16T15:26:52+0200
+FMLCorePlugin: Method.Client.utils.Patcher.Core.CoreModPatcher
+Specification-Version: 1
+
